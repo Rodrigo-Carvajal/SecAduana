@@ -1,3 +1,29 @@
 .navLogoAduana {
-    height: 5rem;
+    height:4rem;
+}
+
+.nav-item:hover  {
+    background-color: rgb(4, 121, 92);
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: rgb(9, 189, 174);
+    color: whitesmoke;
+}
+
+.btn {
+    border-color: rgb(9, 189, 174);
+    border-width:1mm;
+    background-color: rgb(72, 248, 204);
+}
+
+.btn:hover {
+    background-color: rgb(9, 189, 174);
+    color: whitesmoke;
+    border-color: rgb(4, 121, 92);
+}
+
+.form-floating:hover {
+    border-color: rgb(9, 189, 174);
 }
